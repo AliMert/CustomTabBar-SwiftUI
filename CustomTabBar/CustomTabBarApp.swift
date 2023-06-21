@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct CustomTabBarApp: App {
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CustomTabBar(selectedTab: .home, allCases: CustomTabBarItem.allCases)
         }
     }
 }
