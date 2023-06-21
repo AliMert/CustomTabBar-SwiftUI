@@ -10,15 +10,14 @@ A SwiftUI demo project.
 </thead>
 <tbody>
    <tr>
+       <td>
+         <img src="screenshots/light.png" width="200"> 
+      </td>
         <td>
          <img src="screenshots/dark.png" width="200"> 
         </td>
   </tr>
-  <tr>
-        <td>
-         <img src="screenshots/light.png" width="200"> 
-        </td>
-  </tr>
+
   <tr> 
      <th colspan="5">
      <div align="center">
